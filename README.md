@@ -26,7 +26,7 @@ pinned: false
 
 > 🎯 **Created to address [Hugging Face Transformers Issue #20179](https://github.com/huggingface/transformers/issues/20179)** - Making documentation translation more accessible and automated for the global community.
 
-[🚀 Try Live Demo](https://huggingface.co/spaces/Agents-MCP-Hackathon/hf-transformers-docs-i18n-agent) • [📹 Watch Demo](#-demo-video) • [📖 Documentation](#-quick-start)
+[🚀 Try Live Demo](https://huggingface.co/spaces/Agents-MCP-Hackathon/hf-transformers-docs-i18n-agent) • [📹 Watch Demo](https://youtu.be/Xym6w9bMQXM) • [📖 Documentation](#-quick-start)
 
 </div>
 
@@ -54,16 +54,17 @@ This project was specifically created to solve [Hugging Face Transformers Issue 
 
 ## 🎥 Demo Video
 
-[![Hugging Face i18n Agent Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+*Click image to link to demo video*
+[![image/png](https://cdn-uploads.huggingface.co/production/uploads/644a081386e837e3d58831e8/ElUN6EarvTX9qWdaPCNlk.png)](https://youtu.be/Xym6w9bMQXM)
+🔗 https://youtu.be/Xym6w9bMQXM
 
 *Watch the complete walkthrough: from setup to PR creation in under 5 minutes*
 
 ## 🚀 Quick Start
 
-![KREW x Hugging Face Logo](images/demo.png)
 
 ### Option 1: One-Click Demo (Recommended)
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/YOUR_USERNAME/i18n-agent)
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/Agents-MCP-Hackathon/hf-transformers-docs-i18n-agent)
 
 ✅ **No setup required!** Just click and start translating.  
 ✅ **Pre-requisites!** Need `Anthropic API key` and `Github token`.
